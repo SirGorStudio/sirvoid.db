@@ -1,0 +1,23 @@
+{
+  "name": "sirvoid.db",
+  "version": "1.0.0",
+  "description": "It is a JSON based data logging module.",
+  "main": "sirvoid-db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "database",
+    "db",
+    "json",
+    "jsondata",
+    "fs",
+    "databases",
+    "jsonfolder",
+    "dbase",
+    "datab"
+  ],
+  "author": "SirGorStudio",
+  "license": "MIT",
+  "dependencies": {}
+}
